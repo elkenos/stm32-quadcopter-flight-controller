@@ -1,2 +1,12 @@
 # stm32-quadcopter-flight-controller
-Custom Flight Controller design process 
+Basic Design 
+
+Power management 
+
+Internal power and External power 
+
+Microcontroller for Battery voltage inspection and Flight controller connection
+
+Flight controller for controlling drone motors, drone movement
+
+
