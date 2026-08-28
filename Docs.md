@@ -30,9 +30,9 @@ However placing the load at source is not sufficient enough since the new incomi
 
 Back EMF signal is the inductive feedback current that flows through the inductor of the stator that is in the floating phase. The benefit of the signal is that the motor takes in less current, reducing the heat build of excess current—the only resistance of the inductor comes from the actual coil material, the EMF signal provides an extra layer of resistive force
 
-Sensorless motor control algorithms also rely on EMF signal, to control the speed of the BLDC motor and overall the strength of magnetic orthogonality, EMF voltage signal is used for reading the speed of the motor. (How does it differ)
+Sensorless motor control algorithms also rely on EMF signal, to control the speed of the BLDC motor and overall the strength of magnetic orthogonality, EMF voltage signal is used for reading the speed of the motor. 
 
-Additionally, the BEMF resistive dividers feature RC filters for reducing noises from PWM signals. 1/2piRC = 159kHz (high frequency are killed) 
+Additionally, the BEMF resistive dividers feature RC filters for reducing noises from PWM signals. 1/2piRC = 159kHz 
 
 
 <img width="1208" height="812" alt="image" src="https://github.com/user-attachments/assets/c11c4335-c1e5-4c41-8bef-0f58594fa172" />
